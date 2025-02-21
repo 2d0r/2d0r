@@ -1,5 +1,10 @@
 <h1 align="center">👁️ Tudor Popescu 👁️</h1>
 <h3 align="center">React/Next.js Developer, student at The Learning People</h3>
+<h3 align="center">
+  <a href='https://2d0r.github.io'>Portfolio Website</a>
+   • 
+  <a href='https://www.linkedin.com/in/tudor-m-p/'>LinkedIn</a>
+</h3>
 
 ### Web Developer @ [WeJam](https://wejam.studio/) 
 ### Studying the Full-Stack Developer Pathway @ [The Learning People](https://www.learningpeople.com/uk/)
