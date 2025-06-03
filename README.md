@@ -1,5 +1,5 @@
 <h1 align="center">👁️ Tudor Popescu 👁️</h1>
-<h3 align="center">React/Next.js Developer, student at The Learning People</h3>
+<h3 align="center">Web Developer, student at The Learning People</h3>
 <h3 align="center">
   <a href='https://2d0r.github.io'>Portfolio Website</a>
    • 
@@ -13,20 +13,19 @@
 
 #### ▶️ I'm currently working on
 
-- a game mode for visually-impaired pupils to learn music through the WeJam experience
-- designing landing pages as a freelancer
+- redesigning WeJam's landing site, to enhance the user experience, in line with branding
 
 #### 🤓 I'm currently learning
 
-- the Back-end Developer modules at The Learning People, which include Python, Django, SQL and APIs
+- Machine Learning/AI Engineer Journey by Skillsoft
 
 #### 🔭 Current Goal
 
-Finish my studies and find a job as Full-Stack or Front-End Developer in London.
+Applying for Full-Stack or Front-End Developer roles in London or remote.
 
 ## 👨‍🔬 Work Experience
 
-#### Web Developer, WeJam  `Jun 2021 - present`
+#### Web Developer, WeJam  `Jun 2022 - present`
 
 ##### Front-End
 - Designed and implemented user-friendly, responsive, and mobile-first features for the WeJam React app using React, SASS and CSS Animations.
@@ -39,7 +38,7 @@ Finish my studies and find a job as Full-Stack or Front-End Developer in London.
 - Automated song scoring and image generation using Python and Lilypond, cutting in half the time to add a song to the experience.
 - Set up workflow with Google Drive API and Mailerlite to email player stats to clients.
 
-#### Freelance Web Developer, UX Designer  `Oct 2022 - present`
+#### Freelance Web Developer, Digital Designer  `Oct 2022 - present`
 - Created landing pages for various clients, to create their online presence and promote their products
 - Delivered UX projects, such as for a sports booking app, to create a modern and consistent experience on mobile and web.
 - Designed logos, posters, menus to client specifications
